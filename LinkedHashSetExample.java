@@ -20,6 +20,7 @@ public class LinkedHashSetExample {
         	  System.out.println(it.next());
           }
           System.out.println("updated LinkedHashSet elements:"+set);
+          System.out.println("priyanka");
 }
 }
 
