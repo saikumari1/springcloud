@@ -8,7 +8,7 @@ public class LinkedHashSetExample {
 	public static void main(String[] args) {
 		LinkedHashSet<String> set = new LinkedHashSet<String>();
         set.add("Apple");
-        set.add("Banana");
+        set.add("grapes");
         set.add("Orange");
         set.add("null");
           System.out.println("LinkedHashSet elements:"+set);
